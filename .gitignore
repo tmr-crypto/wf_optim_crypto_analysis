@@ -1,0 +1,9 @@
+.RData
+.Rhistory
+.Rproj.user
+Master-Thesis-analysis.Rproj
+/wf_optim_crypto_charts_table.pdf
+*.rds
+data/**/*.csv
+data/**/*.yaml
+report/**/*.yaml
