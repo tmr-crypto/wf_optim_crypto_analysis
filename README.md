@@ -71,7 +71,7 @@ This research is fully reproducible using Data Version Control (DVC) — an open
 ## Repository Structure
 - 🐍 conda_env/wf_optim_conda.yaml: Configuration file for creating the Anaconda environment
 
-- 📂 data: Stores input data.  Directory is untracked. Please retrieve the data from the Google Drive [wf_optim_crypto_analysis.zip](https://drive.google.com/file/d/1y7J3cGFEYYBufVTACzPYr4GXiUSCOKm7/view?usp=drive_link) (76 MB) or regenerate the results locally using the `wf_optim_crypto` pipeline. More info [Data Acquisition](#data-acquisition) 
+- 📂 data: Stores input data.  Directory is untracked. Please retrieve the data from the Google Drive [wf_optim_crypto_analysis.zip](https://drive.google.com/file/d/1y7J3cGFEYYBufVTACzPYr4GXiUSCOKm7/view?usp=sharing) (76 MB) or regenerate the results locally using the `wf_optim_crypto` pipeline. More info [Data Acquisition](#data-acquisition) 
 
 - 📂 output: Stores generated .rds objects and the final PDF report. (Note: Directory is untracked; populated upon pipeline completion.)
 
